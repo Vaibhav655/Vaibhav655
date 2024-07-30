@@ -14,10 +14,7 @@ Hi there 👋, I'm Vaibhav Kumar
 - 💞️ I’m looking to collaborate on [mention the types of projects or areas you are interested in collaborating on].
 
 ## Contact
-- 📫 How to reach me: [mention your preferred contact method, e.g., email, LinkedIn, etc.].
-
-## Fun Fact
-- ⚡ Fun fact: [mention an interesting or quirky fact about yourself].
+- 📫 How to reach me: Mailto: kumarvaibhav655@gmail.com
 
 ---
 
