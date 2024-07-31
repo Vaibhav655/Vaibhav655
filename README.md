@@ -4,14 +4,9 @@ Hi there 👋, I'm Vaibhav Kumar
 - 🌐 I’m a Frontend Developer.
 - 💻 I know various coding languages.
 
-## Interests
-- 👀 I’m interested in Coding.
-- 
 ## Learning
-- 🌱 I’m currently learning 
-
-## Collaboration
-- 💞️ I’m looking to collaborate on [mention the types of projects or areas you are interested in collaborating on].
+- 🌱 I’m currently learning Javascript and SQL
+- 👀
 
 ## Contact
 - 📫 How to reach me: Mailto: kumarvaibhav655@gmail.com
