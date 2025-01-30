@@ -6,7 +6,7 @@ Hi there 👋, I'm Vaibhav Kumar
 
 ## Learning
 - 🌱 I’m currently learning Javascript and SQL
-- 👀
+
 
 ## Contact
 - 📫 How to reach me: Mailto: kumarvaibhav655@gmail.com
