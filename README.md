@@ -9,7 +9,9 @@ Hi there 👋, I'm Vaibhav Kumar
 
 
 ## Contact
-- 📫 How to reach me: Mail to: kumarvaibhav655@gmail.com, vaibhavkumar.work.tech@gmail.com
+📫 How to reach me:
+- Mail to: kumarvaibhav655@gmail.com, vaibhavkumar.work.tech@gmail.com
+- LinkedIn: [[linkedin.com/in/vaibhav655](https://www.linkedin.com/in/vaibhav-kumar-b25875201/)](#)
 
 ---
 
