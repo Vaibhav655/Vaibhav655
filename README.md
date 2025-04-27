@@ -9,14 +9,9 @@ Hi there 👋, I'm Vaibhav Kumar
 
 
 ## Contact
-- 📫 How to reach me: Mailto: kumarvaibhav655@gmail.com
+- 📫 How to reach me: Mail to: kumarvaibhav655@gmail.com, vaibhavkumar.work.tech@gmail.com
 
 ---
 
 Feel free to connect with me and explore my repositories!
 
-
-<!---
-Vaibhav655/Vaibhav655 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
