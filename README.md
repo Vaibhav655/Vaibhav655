@@ -1,28 +1,28 @@
 # 👋 Hi, I'm Vaibhav Kumar!
 
-I'm a passionate **Frontend Developer** pursuing an MCA, with a knack for building user-friendly web applications using HTML, CSS, JavaScript, and more. I love crafting solutions like NGO landing pages and movie booking systems, and I'm always exploring new technologies like JavaScript and SQL to level up my skills.
+I'm a passionate **Frontend Developer** pursuing an MCA, with a knack for building user-friendly web applications using HTML, CSS, JavaScript, and more. I love crafting solutions and team to develop and implement web-based applications, enhancing technical skills and understanding of project workflows. I'm always exploring new technologies.
 
 ## 🚀 About Me
 - 🔭 **Currently**: Pursuing a Master’s in Computer Applications (MCA).
 - 🌐 **Role**: Frontend Developer with a growing interest in full-stack development.
-- 💻 **Skills**: HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, SQL (learning), Git, VS Code.
+- 💻 **Skills**: HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, SQL, Git, VS Code.
 - 🎯 **Goal**: Create impactful web applications and contribute to open-source projects.
 
 ## 🌱 Currently Learning
-- **JavaScript**: Deepening my knowledge of modern frameworks like React.
+- **JavaScript**: Gathering knowledge of modern frameworks like React.
 - **SQL**: Exploring database design and queries for backend development.
 - **Full-Stack**: Building end-to-end applications with Node.js and MongoDB.
 
 ## 🛠️ Featured Projects
+- **[MediBot - Healthcare Chatbot](https://vaibhav655.github.io/MediCare_ChatBot/)**  
+  An AI-powered chatbot to assist with medical queries, treatment suggestions & health guidance.
+  *TechStack*: HTML, CSS, JavaScript, Google Generative AI API, DuckDuckGo API
 - **[NGO Landing Page](https://github.com/Vaibhav655/NGO_Landing_Page)**  
   A responsive single-page website to promote an NGO’s mission and attract volunteers.  
   *TechStack*: HTML, CSS, JavaScript
 - **[Movie Booking System](https://github.com/Vaibhav655/Movie-Booking-Project)**  
   A full-stack app for browsing, selecting, and booking movie tickets with seat selection.  
   *TechStack*: HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
-- **[MediBot - Healthcare Chatbot](#)** *(In Progress)*  
-  An AI-powered chatbot to assist with medical queries, treatment suggestions & health guidance.
-  *TechStack*: HTML, CSS, JavaScript, Google Generative AI API, DuckDuckGo API
 
 
 ## 🌟 Open-Source Contributions
