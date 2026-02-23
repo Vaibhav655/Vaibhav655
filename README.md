@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vaibhav Kumar!
 
-I'm a passionate **Frontend Developer** pursuing an MCA, with a knack for building user-friendly web applications using HTML, CSS, JavaScript, and more. I love crafting solutions and team to develop and implement web-based applications, enhancing technical skills and understanding of project workflows. I'm always exploring new technologies.
+I'm a passionate **Frontend Developer**, with a knack for building user-friendly web applications using HTML, CSS, JavaScript, and more. I love crafting solutions and team to develop and implement web-based applications, enhancing technical skills and understanding of project workflows. I'm always exploring new technologies.
 
 ## 🚀 About Me
 - 🔭 **Currently**: Pursuing a Master’s in Computer Applications (MCA).
